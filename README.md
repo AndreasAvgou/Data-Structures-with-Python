@@ -28,6 +28,30 @@ Implementation of an AVL Tree, a self-balancing Binary Search Tree (BST) that ma
     * **Rotations:** Implementation of Left (`leftRotate`) and Right (`rightRotate`) rotations to handle LL, RR, LR, and RL imbalances.
     * **Traversal:** Pre-order traversal to visualize structure.
 * **Files:** `node.py`, `operations.py`, `rotations.py`, `utils.py`, `traversal.py`.
+  
+---
+
+### 🔹3: Graph Algorithms (BFS)
+**Focus:** Graph Traversal and Matrix Representation.
+Implementation of the **Breadth-First Search (BFS)** algorithm to traverse a graph.
+
+* **Key Concepts:**
+    * **Adjacency Matrix:** Representing graph connections using a 2D array (10x10 matrix).
+    * **Custom Queue:** Manual implementation of a Queue class using pointers (`front`, `rear`) instead of built-in libraries.
+    * **BFS Algorithm:** Level-order traversal using a queue and a visited array (`mark`) to prevent cycles.
+* **Files:** * `main.py`: Defines the graph matrix and handles user input.
+    * `graph_algo.py`: Contains the BFS logic.
+    * `my_queue.py`: Custom Queue class implementation using arrays.
+---
+
+### 🔹 4: Graph Algorithms (DFS)
+**Focus:** Graph Traversal using Recursion.
+Implementation of the **Depth-First Search (DFS)** algorithm. unlike BFS, this algorithm explores as far as possible along each branch before backtracking.
+* **Key Concepts:**
+    * **Recursion:** Uses the system call stack (LIFO) instead of a manual data structure.
+    * **Backtracking:** The algorithm retreats when it hits a dead end or a visited node.
+    * **Visited Array:** Prevents infinite loops in cyclic graphs.
+* **Files:** `main.py`, `dfs_algo.py`.
 
 ---
 
