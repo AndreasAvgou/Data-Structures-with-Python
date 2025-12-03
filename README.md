@@ -55,8 +55,17 @@ Implementation of the **Depth-First Search (DFS)** algorithm. unlike BFS, this a
 
 ---
 
+### 🔹 5: Singly Linked List
+**Focus:** Dynamic Data Structures and Pointers.
+Implementation of a **Sorted Singly Linked List**. Unlike arrays, elements (Nodes) are not stored in contiguous memory but are linked via pointers.
+* **Key Concepts:**
+    * **The Node:** An object containing data and a reference (`next`) to the following node.
+    * **Sorted Insertion:** The `insert_node` function scans the list to place new numbers in ascending order automatically.
+    * **Dynamic Memory:** Nodes are created and removed on the fly (`insert`/`delete`).
+* **Files:** `main.py`, `linked_list.py`, `node.py`, `utils.py`.
+  
 *(More will be added)*
-
+---
 ## 🚀 How to Run
 
 Each one is contained within its own module/folder. To run a specific :
