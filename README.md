@@ -63,9 +63,31 @@ Implementation of a **Sorted Singly Linked List**. Unlike arrays, elements (Node
     * **Sorted Insertion:** The `insert_node` function scans the list to place new numbers in ascending order automatically.
     * **Dynamic Memory:** Nodes are created and removed on the fly (`insert`/`delete`).
 * **Files:** `main.py`, `linked_list.py`, `node.py`, `utils.py`.
-  
-*(More will be added)*
+
 ---
+
+### 🔹  6: Sorting Algorithms
+**Focus:** Algorithmic Efficiency ($O(n^2)$ vs $O(n \log n)$).
+A comprehensive suite of sorting algorithms implemented to demonstrate different strategies for ordering data.
+* **Algorithms Implemented:**
+    1.  **Bubble Sort:** Swaps adjacent elements repeatedly.
+    2.  **Insertion Sort:** Builds the sorted array one item at a time.
+    3.  **Selection Sort:** repeatedly finds the minimum element.
+    4.  **Shell Sort:** A generalization of insertion sort using gaps (powers of 2).
+    5.  **QuickSort:** Recursive divide-and-conquer strategy using a pivot.
+* **Key Features:** Menu-driven interface, data copying (to preserve the original dataset for multiple tests), and modular design.
+* **Files:** `main.py`, `algorithms.py`, `handlers.py`, `utils.py`.
+
+---
+
+### 🔹 7: Search & Sort Integration
+**Focus:** Relationship between Sorting and Searching.
+Demonstrates how Binary Search requires sorted data (using QuickSort) to function correctly.
+* **Key Concepts:** Sequential Search vs Binary Search, Handling unsorted inputs.
+* **Files:** `main.py`, `handlers.py`, `searching.py`, `sorting.py`.
+
+---
+
 ## 🚀 How to Run
 
 Each one is contained within its own module/folder. To run a specific :
