@@ -1,6 +1,6 @@
 # Data Structures & Algorithms with Python
 
-This repository contains a collection collection of Python scripts developed .
+This repository contains a collection collection of Python scripts developed.
 The exercises are focusing on understanding fundamental algorithms, memory management, and efficient data manipulation.
 
 ## 📂 Project Structure
