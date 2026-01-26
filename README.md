@@ -3,7 +3,7 @@
 This repository contains a collection collection of Python scripts developed.
 The exercises are focusing on understanding fundamental algorithms, memory management, and efficient data manipulation.
 
-## 📂 Project Structure
+## Project Structure
 
 ### 🔹 1: Array Operations
 **Focus:** Basic array manipulation and modular programming.
