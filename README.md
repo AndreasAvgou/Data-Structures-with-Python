@@ -1,4 +1,11 @@
-# Data Structures & Algorithms with Python
+<div align="center">
+<img width="1232" height="924" alt="1_4ZcW5tSdizlbtDQyVpRTuA" src="https://github.com/user-attachments/assets/6a5bdf9e-9226-4115-be11-512e56921644" />
+
+ # Data Structures & Algorithms with Python
+  
+</div>
+
+
 
 This repository contains a collection collection of Python scripts developed.
 The exercises are focusing on understanding fundamental algorithms, memory management, and efficient data manipulation.
