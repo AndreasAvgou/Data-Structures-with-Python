@@ -10,9 +10,9 @@
 This repository contains a collection collection of Python scripts developed.
 The exercises are focusing on understanding fundamental algorithms, memory management, and efficient data manipulation.
 
-## Project Structure
+### Project Structure
 
-### 🔹 1: Array Operations
+#### 🔹 1: Array Operations
 **Focus:** Basic array manipulation and modular programming.
 This lab demonstrates fundamental operations on arrays using a modular architecture (separation of concerns).
 
@@ -25,7 +25,7 @@ This lab demonstrates fundamental operations on arrays using a modular architect
 
 ---
 
-### 🔹 2: AVL Trees (Self-Balancing BST)
+#### 🔹 2: AVL Trees (Self-Balancing BST)
 **Focus:** Advanced tree data structures and recursion.
 Implementation of an AVL Tree, a self-balancing Binary Search Tree (BST) that maintains $O(\log n)$ height complexity.
 
@@ -38,7 +38,7 @@ Implementation of an AVL Tree, a self-balancing Binary Search Tree (BST) that ma
   
 ---
 
-### 🔹3: Graph Algorithms (BFS)
+#### 🔹3: Graph Algorithms (BFS)
 **Focus:** Graph Traversal and Matrix Representation.
 Implementation of the **Breadth-First Search (BFS)** algorithm to traverse a graph.
 
@@ -51,7 +51,7 @@ Implementation of the **Breadth-First Search (BFS)** algorithm to traverse a gra
     * `my_queue.py`: Custom Queue class implementation using arrays.
 ---
 
-### 🔹 4: Graph Algorithms (DFS)
+#### 🔹 4: Graph Algorithms (DFS)
 **Focus:** Graph Traversal using Recursion.
 Implementation of the **Depth-First Search (DFS)** algorithm. unlike BFS, this algorithm explores as far as possible along each branch before backtracking.
 * **Key Concepts:**
@@ -62,7 +62,7 @@ Implementation of the **Depth-First Search (DFS)** algorithm. unlike BFS, this a
 
 ---
 
-### 🔹 5: Singly Linked List
+#### 🔹 5: Singly Linked List
 **Focus:** Dynamic Data Structures and Pointers.
 Implementation of a **Sorted Singly Linked List**. Unlike arrays, elements (Nodes) are not stored in contiguous memory but are linked via pointers.
 * **Key Concepts:**
@@ -73,7 +73,7 @@ Implementation of a **Sorted Singly Linked List**. Unlike arrays, elements (Node
 
 ---
 
-### 🔹  6: Sorting Algorithms
+#### 🔹  6: Sorting Algorithms
 **Focus:** Algorithmic Efficiency ($O(n^2)$ vs $O(n \log n)$).
 A comprehensive suite of sorting algorithms implemented to demonstrate different strategies for ordering data.
 * **Algorithms Implemented:**
@@ -87,7 +87,7 @@ A comprehensive suite of sorting algorithms implemented to demonstrate different
 
 ---
 
-### 🔹 7: Search & Sort Integration
+#### 🔹 7: Search & Sort Integration
 **Focus:** Relationship between Sorting and Searching.
 Demonstrates how Binary Search requires sorted data (using QuickSort) to function correctly.
 * **Key Concepts:** Sequential Search vs Binary Search, Handling unsorted inputs.
@@ -95,7 +95,7 @@ Demonstrates how Binary Search requires sorted data (using QuickSort) to functio
 
 ---
 
-## 🚀 How to Run
+### 🚀 How to Run
 
 Each one is contained within its own module/folder. To run a specific :
 
@@ -115,7 +115,7 @@ Each one is contained within its own module/folder. To run a specific :
     python main.py
     ```
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 * **Language:** Python 3.x
 * **Tools:** Standard Library (no external dependencies required).
