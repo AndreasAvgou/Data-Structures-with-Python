@@ -95,7 +95,7 @@ Demonstrates how Binary Search requires sorted data (using QuickSort) to functio
 
 ---
 
-### 🚀 How to Run
+### How to Run
 
 Each one is contained within its own module/folder. To run a specific :
 
