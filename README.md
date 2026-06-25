@@ -5,8 +5,6 @@
   
 </div>
 
-
-
 This repository contains a collection collection of Python scripts developed.
 The exercises are focusing on understanding fundamental algorithms, memory management, and efficient data manipulation.
 
@@ -115,7 +113,7 @@ Each one is contained within its own module/folder. To run a specific :
     python main.py
     ```
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 * **Language:** Python 3.x
 * **Tools:** Standard Library (no external dependencies required).
